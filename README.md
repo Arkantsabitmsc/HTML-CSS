@@ -19,3 +19,10 @@ menampikan elemen dalam sebuah gambar
 br
 untuk new line
 div untuk membungkus banyak elemen dalam satu elemen
+
+Literal Character
+< = &lt;
+> = &ht;
+" = &quot;
+' = &apos;
+& = &amp;
